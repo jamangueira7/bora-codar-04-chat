@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de front end (apenas template) de um player de música. 
+Projeto de front end (apenas template) de um chat. 
 
 Inspirado na video aula do canal - [Rocketseat](https://www.youtube.com/watch?v=iQkN0Lo3Kwo&list=PL85ITvJ7FLohAe8-BUtOOJ7xyz089SH4m)
 
