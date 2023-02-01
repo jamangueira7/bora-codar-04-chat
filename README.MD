@@ -11,11 +11,8 @@
   <img alt="app" src=".github/img.png" width="500px" height="500px">
 </p>
 
-<p align="center">
-  <img alt="app" src=".github/img_1.png" width="500px" height="500px">
-</p>
 
-## Player de Música
+## Chat
 
 ## 🚀 Tecnologias
 
@@ -29,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de front end (apenas template) de um player de música. 
 
-Inspirado na video aula do canal - [Rocketseat](https://www.youtube.com/watch?v=M_eaBcany6Y)
+Inspirado na video aula do canal - [Rocketseat](https://www.youtube.com/watch?v=iQkN0Lo3Kwo&list=PL85ITvJ7FLohAe8-BUtOOJ7xyz089SH4m)
 
 Figma do projeto - [Aqui](https://www.figma.com/community/file/1195050524500542670)
 
